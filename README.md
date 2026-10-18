@@ -1,5 +1,5 @@
 
-# Práctica 1 — Programación Web Avanzada
+# Clase Práctica 1 — Programación Web Avanzada
 
 **Universidad Bolivariana del Ecuador (UBE)**  
 **Carrera:** Ingeniería en Sistemas Inteligentes  
